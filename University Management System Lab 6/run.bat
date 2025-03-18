@@ -1,0 +1,2 @@
+javac -d out src/com/Management/Main/*.java src/com/Management/Campus/*.java src/com/Management/Department/*.java src/com/Management/Lab/*.java src/com/Management/SystemUnit/*.java src/com/Management/Employe/*.java
+java -cp out com.Management.Main.Main
